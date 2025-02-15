@@ -103,10 +103,15 @@ Identifying tracks that were played only once to analyze less popular songs.
 
 Finding tracks that were never skipped, indicating high engagement.
 
-Potential Applications
+# Potential Applications
+
 This dataset can be leveraged in various ways, including:
-✅ User Engagement Analysis – Understanding user preferences and improving recommendation algorithms.
-✅ Music Marketing Insights – Helping artists and record labels tailor their marketing strategies.
-✅ Product Optimization – Enhancing the music streaming experience by adjusting autoplay, shuffle, and recommendation features.
-✅ Personalized Playlists – Identifying listening patterns to create better-curated playlists for users.
+
+User Engagement Analysis – Understanding user preferences and improving recommendation algorithms.
+ 
+Music Marketing Insights – Helping artists and record labels tailor their marketing strategies.
+
+Product Optimization – Enhancing the music streaming experience by adjusting autoplay, shuffle, and recommendation features.
+
+Personalized Playlists – Identifying listening patterns to create better-curated playlists for users.
 
